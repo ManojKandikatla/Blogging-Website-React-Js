@@ -1,0 +1,10 @@
+
+.footer-div{
+    background-color: rgba(0, 0, 0, 0.684);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    height: 30px;
+    border-radius: 2px;
+}
